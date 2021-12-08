@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Schedules</string>
+    <string name="settings_label">Settings</string>
+    <string name="refresh_schedules_label">Refresh schedules list</string>
+    <string name="no_schedules_available">No Schedules Available</string>
+    
+    <string name="notification_one_hour_remaining">One hour remaining</string>
+    <string name="notification_thirty_minute_remaining">Thirty minutes remaining</string>
+    <string name="notification_fifteen_minute_remaining">Fifteen minutes remaining</string>
+    <string name="notification_ten_minute_remaining">Ten minutes remaining</string>
+    <string name="notification_five_minute_remaining">Five minutes remaining</string>
+    <string name="notification_one_minute_remaining">One minute remaining</string>
+    <string name="notification_thirty_second_remaining">Thirty seconds remaining</string>
+
+    <string name="theme_label">Theme</string>
+    <string name="theme_system">System</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+</resources>
